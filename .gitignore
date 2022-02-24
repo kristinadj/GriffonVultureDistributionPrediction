@@ -11,7 +11,7 @@ ipython_config.py
 # Remove previous ipynb_checkpoints
 #   git rm -r .ipynb_checkpoints/
 
-# Not cleaned dataset files
+# Movebank data
 MovebankDatasets/e-ObsGPRSHimalayanGriffon-Bhutan-MPIAB/
 MovebankDatasets/EurasianGriffonVultures1HzHUJ(Israel)/
 MovebankDatasets/Griffonvulture[fdlmes.gr]/
@@ -22,4 +22,10 @@ MovebankDatasets/Long-rangeadultmovementsof3vulturespecies(datafromSpiegeletal.2
 MovebankDatasets/RaptorsNABUMoessingenpublic/
 MovebankDatasets/SoaringflightinEurasiangriffonvultures(HUJ)(datafromHarelandNathan,2018)/
 
-FinalDatasets/
+# WorldClimData
+WorldClimDatasets/wc2.1_2.5m_prec_2010-2018
+WorldClimDatasets/wc2.1_2.5m_tmax_2010-2018
+
+# Final datasets
+FinalDatasets/Coordinates
+FinalDatasets/Weather
